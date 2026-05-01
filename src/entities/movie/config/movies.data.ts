@@ -41,7 +41,6 @@ export const movies: Movie[] = [
   { title: 'Большой Лебовски', year: 1998, rating: 7.8, date: '2022-11-18', nick: 'lord_cthulhu_23' },
   { title: 'Борат', year: 2006, rating: 6.7, chat: 6.0, date: '2023-12-01', nick: 'Mativil+magicisnothere' },
   { title: 'Борьба с моей семьей', year: 2019, rating: 6.6, chat: 7.0, date: '2025-06-27', nick: '0706aestyles' },
-  { title: 'Борьба', year: 2019, rating: 6.6, chat: 7.0, date: '2026-05-01', nick: '0706aestyles' },
   { title: 'Босиком по мостовой', year: 2005, rating: 7.9, chat: 7.0, date: '2024-03-01', nick: 'lord_cthulhu_23' },
   { title: 'Братство волка', year: 2001, rating: 7.3, date: '2022-09-30', nick: 'Rukinar' },
   { title: 'Брюс всемогущий', year: 2003, rating: 7.7, chat: 7.5, date: '2024-07-19', nick: 'PastGenKnight' },
