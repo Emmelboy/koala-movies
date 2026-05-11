@@ -414,4 +414,4 @@ export const movies: Movie[] = [
   { title: 'Я иду искать', year: 2019, rating: 6.9, chat: 7.0, date: '2024-04-05', nick: 'lord_cthulhu_23' },
   { title: 'Я потеряла свое тело', year: 2019, rating: 7.5, chat: 6.5, date: '2024-05-03', nick: 'zhrun1' },
   { title: 'Я хочу съесть твою поджелудочную', year: 2018, rating: 7.9, chat: 6.0, date: '2024-07-26', nick: 'zhrun1' },
-  { title: 'Я, Эрл и умирающая девушка', year: 2015, rating: 7.7, date: '2022-10-04', nick: 'daddypancake' },
+  { title: 'Я, Эрл и умирающая девушка', year: 2015, rating: 7.7, date: '2022-10-04', nick: 'daddypancake' },]
