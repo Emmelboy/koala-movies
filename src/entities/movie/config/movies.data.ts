@@ -121,7 +121,7 @@ export const movies: Movie[] = [
   { title: 'Евротур', year: 2004, rating: 7.6, date: '2024-10-15', nick: 'zhrun1' },
   { title: 'Её заветное желание', year: 2020, rating: 8.2, chat: 6.5, date: '2024-05-10', nick: 'lord_cthulhu_23' },
   { title: 'Железная хватка', year: 2010, rating: 7.6, chat: 7.0, date: '2025-10-10', nick: 'lord_cthulhu_23' },
-  { title: 'Железный человек', year: 2008, rating: 8.0, chat: 8.5, date: '2026-05-08', nick: 'zhrun1' },
+  { title: 'Железный человек ', year: 2008, rating: 8.0, chat: 8.5, date: '2026-05-08', nick: 'zhrun1' },
   { title: 'Женя, Женечка и "Катюша"', year: 1967, rating: 8.2, chat: 5.5, date: '2024-09-13', nick: 'coloradobug' },
   { title: 'Жизнь Дэвида Гейла', year: 2002, rating: 8.1, chat: 7.5, date: '2026-01-09', nick: 'DrZlo' },
   { title: 'Жизнь Чака', year: 2024, rating: 7.6, chat: 8.0, date: '2025-08-31', nick: 'lord_cthulhu_23' },
